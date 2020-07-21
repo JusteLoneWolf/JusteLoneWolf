@@ -13,5 +13,6 @@ Je suis en ecole de dévellopement et reseau en 2 éme année a Toulouse
   - PokemonBot (en cours d'étude)
   
 Mon discord: [BCFB] zechaos#2310
+
 Mon serveur: (pas encore)
   
