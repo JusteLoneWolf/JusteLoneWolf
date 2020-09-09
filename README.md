@@ -10,7 +10,7 @@ Je suis en ecole de dévellopement et reseau en 2 éme année a Toulouse
   - [ZacianLog](https://github.com/zechaos031/ZacianLogs) Un bot de moeration et de log sur discord (open source)
   - Clouds Shards une solution d'hebergement libre de bot discord et de server minecraft
   - [Arcane](https://arcane-center.xyz/) Une bot list et server list, [le module](https://www.npmjs.com/package/abcapi) par moi même [le code source](https://github.com/Arcane-Bot-Center/abcAPI)
-  - PokemonBot (en cours d'étude)
+  - RPBot un bot rp privé mais open source
   
 Mon discord: [BCFB] zechaos#2310
 
