@@ -26,8 +26,16 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 #### Mes competances
 
 ##### Language
+###### Web
+![40%](https://progress-bar.dev/40?title=JavaScript) ![20%](https://progress-bar.dev/20?title=HTML) ![20%](https://progress-bar.dev/20?title=CSS)
 
-![80%](https://progress-bar.dev/80?title=JavaScript) ![10%](https://progress-bar.dev/10?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![10%](https://progress-bar.dev/10?title=C\#) ![30%](https://progress-bar.dev/30?title=TypeScript) ![20%](https://progress-bar.dev/20?title=HTML) ![20%](https://progress-bar.dev/20?title=CSS)
+###### Backend
+![80%](https://progress-bar.dev/80?title=JavaScript) ![30%](https://progress-bar.dev/30?title=TypeScript)  ![30%](https://progress-bar.dev/30?title=CoffeeScript)
+
+
+###### Autres
+![10%](https://progress-bar.dev/10?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![10%](https://progress-bar.dev/10?title=C\#) 
+--
 
 ##### Logiciel
 
