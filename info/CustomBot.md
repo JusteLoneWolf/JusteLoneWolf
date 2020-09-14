@@ -18,12 +18,74 @@ Ils peuvent être basé sur mes open source de mes bot ou avoir une structure cu
 - Peut avoir une base de donnée plus performante (mongoDB)
 - Une meilleur optimisation et une consommation optimal
 
-|       |     Gratuit    |   Payant |
-| ------------- |: -------------: | ---------: |
-| Base de donnée Enmap      |        X        |      X |
-| Base de donnée MongoDB        |                |     X|
-| Commandes custom      |        X        |      X |
-| Consommation      |        X        |      X |
-| Optimisation     |        X        |      X |
-| Accès code source (open source ou non)      |        X        |      X |
-| Maintenance      |        X        |      X |
+<table>
+    <thead>
+        <tr>
+            <th>header 1</th>
+            <th align="center">Gratuit</th>
+            <th align="right">Payant</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Base de donnée Enmap</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+        <tr>
+            <td>Base de donnée MongoDB</td>
+            <td align="center"></td>
+            <td align="right">X</td>
+        </tr>
+        <tr>
+            <td>Commandes custom</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Consommation</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Optimisation</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Accès code source (open source ou non)</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Maintenance</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Automatisation</td>
+            <td align="center"></td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Systeme de log</td>
+            <td align="center"></td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Systeme de niveau</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Mise auto en maintenance des commande</td>
+            <td align="center"></td>
+            <td align="right">X</td>
+        </tr>
+      <tr>
+            <td>Mise auto en maintenance des commande</td>
+            <td align="center"></td>
+            <td align="right">X</td>
+        </tr>
+    </tbody>
+</table>
