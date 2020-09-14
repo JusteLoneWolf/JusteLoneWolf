@@ -44,6 +44,50 @@ Mon discord: [BCFB] zechaos#2310
 
 Mon serveur: (pas encore)
 <!--START_SECTION:waka-->
-  
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    98 commits     █████░░░░░░░░░░░░░░░░░░░░   20.25% 
+🌆 Daytime    154 commits    ████████░░░░░░░░░░░░░░░░░   31.82% 
+🌃 Evening    105 commits    █████░░░░░░░░░░░░░░░░░░░░   21.69% 
+🌙 Night      127 commits    ██████░░░░░░░░░░░░░░░░░░░   26.24%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+Tuesday      82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
+Wednesday    106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.9% 
+Thursday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
+Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
+Sunday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.79%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
 ![Chart not found](https://github.com/zechaos031/zechaos031/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
