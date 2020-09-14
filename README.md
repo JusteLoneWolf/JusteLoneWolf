@@ -43,5 +43,6 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 Mon discord: [BCFB] zechaos#2310
 
 Mon serveur: (pas encore)
+<!--START_SECTION:waka-->
   
 ![Chart not found](https://github.com/zechaos031/zechaos031/blob/master/charts/bar_graph.png) 
