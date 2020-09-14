@@ -1,10 +1,12 @@
 ### Salut👋
 
-Bonjour je suis zechaos, dévellopeur nodejs principalement, je fais des bot discord, des mods en Javascript. Je fait quelques code open source sur github
+Bonjour je suis zechaos, dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).
 
 Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.
 
-Je suis en ecole de dévellopement et reseau en 2 éme année a Toulouse
+Comme projet personnel je fait principalement des bot discord mais j'essai de m'ettendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.
+
+Je peux assi faire des bot discord **privée** pour des serveur ils peuvent etre payant ou gratuit.
 
 #### Mes Projets
   - [ZacianLog](https://github.com/zechaos031/ZacianLogs) Un bot de moeration et de log sur discord (open source)
@@ -15,6 +17,7 @@ Je suis en ecole de dévellopement et reseau en 2 éme année a Toulouse
   -Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
 
 #### Mes competances
+
 ![80%](https://progress-bar.dev/80?title=JavaScript)
 
 ![10%](https://progress-bar.dev/10?title=Ruby)
