@@ -16,6 +16,11 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
   -PasswordReminder un bot prive pour les mot de passe
   -Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
 
+
+
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #### Mes competances
 
 ![80%](https://progress-bar.dev/80?title=JavaScript)
