@@ -42,7 +42,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 #### Contact
 Mon discord: [BCFB] zechaos#2310
 
-Mon serveur: (pas encore)
+Mon serveur: https://discord.gg/gTE6dyY
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
