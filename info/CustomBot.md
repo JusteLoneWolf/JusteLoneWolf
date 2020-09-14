@@ -21,7 +21,7 @@ Ils peuvent être basé sur mes open source de mes bot ou avoir une structure cu
 <table>
     <thead>
         <tr>
-            <th>header 1</th>
+            <th></th>
             <th align="center">Gratuit</th>
             <th align="right">Payant</th>
         </tr>
