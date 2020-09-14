@@ -13,7 +13,25 @@ Je suis en ecole de dévellopement et reseau en 2 éme année a Toulouse
   - RPBot un bot rp privé mais o)pen source
   -PasswordReminder un bot prive pour les mot de passe
   -Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
-  
+
+#### Mes competances
+![80%](https://progress-bar.dev/80?title=JavaScript)
+
+![10%](https://progress-bar.dev/10?title=Ruby)
+
+![20%](https://progress-bar.dev/20?title=Python)
+
+![10%](https://progress-bar.dev/10?title=C\#)
+
+![30%](https://progress-bar.dev/30?title=TypeScript)
+
+![30%](https://progress-bar.dev/30?title=Linux)
+
+![70%](https://progress-bar.dev/70?title=Windows)
+
+![90%](https://progress-bar.dev/90?title=Hardware)
+
+#### Contact
 Mon discord: [BCFB] zechaos#2310
 
 Mon serveur: (pas encore)
