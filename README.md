@@ -26,7 +26,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 ##### Language
 
-![80%](https://progress-bar.dev/80?title=JavaScript) ![10%](https://progress-bar.dev/10?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![10%](https://progress-bar.dev/10?title=C\#) ![30%](https://progress-bar.dev/30?title=TypeScript)
+![80%](https://progress-bar.dev/80?title=JavaScript) ![10%](https://progress-bar.dev/10?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![10%](https://progress-bar.dev/10?title=C\#) ![30%](https://progress-bar.dev/30?title=TypeScript) ![20%](https://progress-bar.dev/20?title=HTML) ![20%](https://progress-bar.dev/20?title=CSS
 
 ##### Logiciel
 
