@@ -16,6 +16,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
   - PasswordReminder un bot prive pour les mot de passe.
   - Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi même.
   - Logia un bot discord de log sous eris-sharder en cooperation avec [warix8](https://github.com/warix8).
+  -Aknya un serveur moddé minecraft cooperation avec [warix8](https://github.com/warix8)
 
 
 
