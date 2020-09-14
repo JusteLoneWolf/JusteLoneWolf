@@ -15,6 +15,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
   - RPBot un bot rp privé mais o)pen source
   - PasswordReminder un bot prive pour les mot de passe
   - Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
+  - Logia un bot discord de log sous eris-sharder
 
 
 
