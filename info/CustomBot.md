@@ -83,7 +83,12 @@ Ils peuvent être basé sur mes open source de mes bot ou avoir une structure cu
             <td align="right">X</td>
         </tr>
       <tr>
-            <td>Mise auto en maintenance des commande</td>
+            <td>Generation d'image via api</td>
+            <td align="center">X</td>
+            <td align="right">X</td>
+        </tr>
+        <tr>
+            <td>Generation d'image via Natif</td>
             <td align="center"></td>
             <td align="right">X</td>
         </tr>
