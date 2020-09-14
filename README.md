@@ -36,10 +36,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 ![90%](https://progress-bar.dev/90?title=Hardware)
 
-#### Contact
-Mon discord: [BCFB] zechaos#2310
 
-Mon serveur: https://discord.gg/gTE6dyY
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -88,3 +85,8 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
+
+#### Contact
+Mon discord: [BCFB] zechaos#2310
+
+Mon serveur: https://discord.gg/gTE6dyY
