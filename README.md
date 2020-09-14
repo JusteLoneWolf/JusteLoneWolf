@@ -6,7 +6,7 @@ Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.
 
 Comme projet personnel je fait principalement des bot discord mais j'essai de m'ettendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.
 
-Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etre payant ou gratuit. [Pour plus d'information](https://github.com/zechaos031/zechaos031/info/CustomBot)
+Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etre payant ou gratuit. [Pour plus d'information](https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md)
 
 #### Mes Projets
   - [ZacianLog](https://github.com/zechaos031/ZacianLogs) Un bot de moeration et de log sur discord (open source)
