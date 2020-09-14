@@ -12,7 +12,7 @@ Je suis en ecole de dévellopement et reseau en 2 éme année a Toulouse
   - [Arcane](https://arcane-center.xyz/) Une bot list et server list, [le module](https://www.npmjs.com/package/abcapi) par moi même [le code source](https://github.com/Arcane-Bot-Center/abcAPI) (n'est plus mis a jourpar moi meme)
   - RPBot un bot rp privé mais o)pen source
   -PasswordReminder un bot prive pour les mot de passe
-  -Neko-Love une api d'image sous Nodejs & Koa crrée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
+  -Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
   
 Mon discord: [BCFB] zechaos#2310
 
