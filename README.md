@@ -13,8 +13,8 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
   - Clouds Shards une solution d'hebergement libre de bot discord et de server minecraft
   - [Arcane](https://arcane-center.xyz/) Une bot list et server list, [le module](https://www.npmjs.com/package/abcapi) par moi même [le code source](https://github.com/Arcane-Bot-Center/abcAPI) (n'est plus mis a jourpar moi meme)
   - RPBot un bot rp privé mais o)pen source
-  -PasswordReminder un bot prive pour les mot de passe
-  -Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
+  - PasswordReminder un bot prive pour les mot de passe
+  - Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi meme
 
 
 
