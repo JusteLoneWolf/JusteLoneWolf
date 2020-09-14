@@ -24,19 +24,9 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 #### Mes competances
 
-![80%](https://progress-bar.dev/80?title=JavaScript)
+![80%](https://progress-bar.dev/80?title=JavaScript) ![10%](https://progress-bar.dev/10?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python)![10%](https://progress-bar.dev/10?title=C\#) ![30%](https://progress-bar.dev/30?title=TypeScript)
 
-![10%](https://progress-bar.dev/10?title=Ruby)
-
-![20%](https://progress-bar.dev/20?title=Python)
-
-![10%](https://progress-bar.dev/10?title=C\#)
-
-![30%](https://progress-bar.dev/30?title=TypeScript)
-
-![30%](https://progress-bar.dev/30?title=Linux)
-
-![70%](https://progress-bar.dev/70?title=Windows)
+![30%](https://progress-bar.dev/30?title=Linux) ![70%](https://progress-bar.dev/70?title=Windows)
 
 ![90%](https://progress-bar.dev/90?title=Hardware)
 
