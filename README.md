@@ -95,6 +95,13 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
+#### Mes outils
+[![Webstorm](https://img.shields.io/badge/jetbrain-Webstorm-blue?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
+[![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)    
+[![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+
 #### Contact
 Mon discord: [BCFB] zechaos#2310
 
