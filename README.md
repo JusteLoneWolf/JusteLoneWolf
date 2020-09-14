@@ -44,3 +44,4 @@ Mon discord: [BCFB] zechaos#2310
 
 Mon serveur: (pas encore)
   
+![Chart not found](https://github.com/zechaos031/zechaos031/blob/master/charts/bar_graph.png) 
