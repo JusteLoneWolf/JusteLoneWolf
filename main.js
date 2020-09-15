@@ -19,19 +19,16 @@ const job = new CronJob('*/10 * * * *', function() {
 
             weather.find({search: 'Toulouse', degreeType: 'C', lang: 'fr'}, async function (err, result) {
                 if (err) console.log(err);
-                const temps = result[0].current.skytext
-                const temp = result[0].current.temperature
-
                 console.log('Get information...')
 
                 moment.locale('fr');
                 await octokit.request('PATCH /user', {
-                    bio: `Développeur Nodejs backend\n\nMétéo actuelle à Toulouse : ${temps} il fait ${temp}°C | Dernier update ${moment().format('LT')} | en utilisant NodeJS`
+                    bio: `Développeur Nodejs backend\n\nMétéo actuelle à Toulouse : ${result[0].current.skytext} il fait ${result[0].current.temperature}°C | Dernier update ${moment().format('LT')} | en utilisant NodeJS`
                 }).then(() => {
                     console.log('Post github effectuer')
                 })
 
-                T.post('account/update_profile', {description: `Développeur Nodejs backend\n\nMétéo actuelle à Toulouse : ${temps} il fait ${temp}°C | Dernier update ${moment().format('LT')} | en utilisant NodeJS`}, function (err, data, response) {
+                T.post('account/update_profile', {description: `Développeur Nodejs backend\n\nMétéo actuelle à Toulouse : ${result[0].current.skytext} il fait ${result[0].current.temperature}°C | Dernier update ${moment().format('LT')} | en utilisant NodeJS`}, function (err, data, response) {
                     console.log('Post twitter effectuer')
                 })
             });
