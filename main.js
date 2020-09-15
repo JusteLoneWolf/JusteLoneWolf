@@ -1,5 +1,4 @@
 const { Octokit } = require("@octokit/core");
-const got = require('got');
 const moment = require('moment');
 const config  = require('./config.js');
 
@@ -12,28 +11,32 @@ const T = new Twit({
     consumer_secret:      config.TCS,
     access_token:         config.TAC,
     access_token_secret:  config.TATS,
-})
+});
 const job = new CronJob('*/10 * * * *', function() {
     (async () => {
         try {
-            const response = await got(`http://api.openweathermap.org/data/2.5/weather?id=${config.CITY_ID}&appid=${config.WEATHER_TOKEN}`).json();
-            const weather = response.weather[0].main;
-            const city = response.name;
-            console.log('Get information...')
+            const weather = require('weather-js');
 
-            moment.locale('fr');
-            await octokit.request('PATCH /user', {
-                bio: `Développeur Nodejs backend\n\nMétéo actuelle à ${city} : ${weather} | Dernier update ${moment().format('LT')} | en utilisant NodeJS`
-            }).then(()=>{
-                console.log('Post github effectuer')
-            })
+            weather.find({search: 'Toulouse', degreeType: 'C', lang: 'fr'}, async function (err, result) {
+                if (err) console.log(err);
+                const temps = result[0].current.skytext
+                const temp = result[0].current.temperature
 
-            T.post('account/update_profile',{description:`Développeur Nodejs backend\n\nMétéo actuelle à ${city} : ${weather} | Dernier update ${moment().format('LT')} | en utilisant NodeJS`}, function (err, data, response) {
-                console.log('Post twitter effectuer')
-            })
+                console.log('Get information...')
 
+                moment.locale('fr');
+                await octokit.request('PATCH /user', {
+                    bio: `Développeur Nodejs backend\n\nMétéo actuelle à Toulouse : ${temps} il fait ${temp}°C | Dernier update ${moment().format('LT')} | en utilisant NodeJS`
+                }).then(() => {
+                    console.log('Post github effectuer')
+                })
+
+                T.post('account/update_profile', {description: `Développeur Nodejs backend\n\nMétéo actuelle à Toulouse : ${temps} il fait ${temp}°C | Dernier update ${moment().format('LT')} | en utilisant NodeJS`}, function (err, data, response) {
+                    console.log('Post twitter effectuer')
+                })
+            });
         } catch (error) {
-            console.log(error.response.body);
+            console.log(error);
         }
 
 
