@@ -30,11 +30,13 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 ![40%](https://progress-bar.dev/40?title=JavaScript) ![20%](https://progress-bar.dev/20?title=HTML) ![20%](https://progress-bar.dev/20?title=CSS)
 
 ###### Backend
-![80%](https://progress-bar.dev/80?title=NodeJS) ![30%](https://progress-bar.dev/30?title=TypeScript) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=CoffeeScript)
+![80%](https://progress-bar.dev/80?title=NodeJS) ![5%](https://progress-bar.dev/5?title=PHP) 
+
+
 
 
 ###### Autres
-![10%](https://progress-bar.dev/10?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![10%](https://progress-bar.dev/10?title=C\#) 
+![10%](https://progress-bar.dev/10?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![10%](https://progress-bar.dev/10?title=C\#) ![30%](https://progress-bar.dev/30?title=TypeScript) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=CoffeeScript)
 --
 
 ##### Logiciel
