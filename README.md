@@ -23,7 +23,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Mes competances
+#### Mes compétences
 
 ##### Language
 ###### Web
