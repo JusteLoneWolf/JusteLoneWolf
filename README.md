@@ -1,6 +1,6 @@
 ### Salut👋
 
-Bonjour je suis zechaos, dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).
+Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).
 
 Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.
 
