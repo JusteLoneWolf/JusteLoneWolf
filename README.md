@@ -94,7 +94,8 @@ No Activity Tracked This Week
 **Timeline**
 
 ![Chart not found](https://github.com/zechaos031/zechaos031/blob/master/charts/bar_graph.png) 
-<figure><embed src="https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/09deabb7-cd63-4161-ac41-710bbeb7068d.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/0e0ef91c-5479-44ec-ab5e-db01823e0ba1.png
+    :target: https://wakatime.com/
 
 
 <!--END_SECTION:waka-->
