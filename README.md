@@ -95,7 +95,8 @@ No Activity Tracked This Week
 
 ![Chart not found](https://github.com/zechaos031/zechaos031/blob/master/charts/bar_graph.png) 
 
-https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/faf034bc-6cc5-4570-8110-b0880e908b6c.png
+![Chart not found](https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/faf034bc-6cc5-4570-8110-b0880e908b6c.png) 
+
 
 
 <!--END_SECTION:waka-->
