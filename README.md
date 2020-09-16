@@ -1,4 +1,4 @@
-### Salut👋
+### Salut👋 
 
 Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).
 
@@ -18,6 +18,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
   - Logia un bot discord de log sous eris-sharder en cooperation avec [warix8](https://github.com/warix8).
   - Aknya un serveur moddé minecraft cooperation avec [warix8](https://github.com/warix8)
 
+#### Statistique
 
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -93,6 +94,7 @@ No Activity Tracked This Week
 **Timeline**
 
 ![Chart not found](https://github.com/zechaos031/zechaos031/blob/master/charts/bar_graph.png) 
+<figure><embed src="https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/09deabb7-cd63-4161-ac41-710bbeb7068d.svg"></embed></figure>
 
 
 <!--END_SECTION:waka-->
