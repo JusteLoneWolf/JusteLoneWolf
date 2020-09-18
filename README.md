@@ -117,4 +117,4 @@ ZacianLogs               38 mins             █░░░░░░░░░░�
 #### Contact
 Mon discord: [BCFB] zechaos#2310
 
-Mon serveur: https://discord.gg/gTE6dyY
+![Discord Banner 4](https://discordapp.com/api/guilds/666062901072887819/widget.png?style=banner4)
