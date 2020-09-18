@@ -117,4 +117,4 @@ ZacianLogs               38 mins             █░░░░░░░░░░�
 #### Contact
 Mon discord: [BCFB] zechaos#2310
 
-![Discord Banner 4](https://discordapp.com/api/guilds/666062901072887819/widget.png?style=banner4)
+[![Discord Banner 4](https://discordapp.com/api/guilds/666062901072887819/widget.png?style=banner4)](https://discordapp.com/invite/gTE6dyY)
