@@ -50,7 +50,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 **I'm an Early 🐤** 
 
