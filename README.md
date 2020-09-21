@@ -107,6 +107,9 @@ BotRuby                  1 hr 6 mins         █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+![Chart not found](https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/a854baf3-b811-4627-ac99-e35f0a84f3df.png) 
+
+
 #### Mes outils
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
