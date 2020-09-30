@@ -50,13 +50,13 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 516 Contributions in the Year 2020
  > 
-> 📦 43.3 kB Used in Github's Storage 
+> 📦 43.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
