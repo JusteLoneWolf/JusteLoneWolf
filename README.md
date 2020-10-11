@@ -50,17 +50,17 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 516 Contributions in the Year 2020
+> 🏆 520 Contributions in the Year 2020
  > 
-> 📦 43.4 kB Used in Github's Storage 
+> 📦 43.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories
+> 📜 41 Public Repositories
  > 
 > 🔑 7 Private Repositories 
 
@@ -107,10 +107,10 @@ ZacianLogs               56 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            █████████████████████░░░░   85.71% 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-C#                       1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Ruby                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+JavaScript               18 repos            ████████████████████░░░░░   81.82% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Ruby                     1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
