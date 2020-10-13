@@ -37,7 +37,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 
 ###### Autres
-![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=C#) ![30%](https://progress-bar.dev/30?title=TypeScript) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=CoffeeScript) ![10%](https://progress-bar.dev/10?title=Lua)
+![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=Csharp) ![30%](https://progress-bar.dev/30?title=TypeScript) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=CoffeeScript) ![10%](https://progress-bar.dev/10?title=Lua)
 --
 
 ##### Logiciel
