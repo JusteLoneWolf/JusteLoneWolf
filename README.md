@@ -54,7 +54,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 **🐱 My Github Data** 
 
-> 🏆 540 Contributions in the Year 2020
+> 🏆 553 Contributions in the Year 2020
  > 
 > 📦 43.5 kB Used in Github's Storage 
  > 
