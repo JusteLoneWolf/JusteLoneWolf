@@ -24,26 +24,42 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
-#### Mes compétences
-
-##### Language
-###### Web
+<details>
+  <summary><b>Mes compétences</b></summary>
+  <details>
+  <summary><b>Language</b></summary>
+    <details>
+  <summary><b>Web</b></summary>
+      
 ![40%](https://progress-bar.dev/40?title=JavaScript) ![20%](https://progress-bar.dev/20?title=HTML) ![20%](https://progress-bar.dev/20?title=CSS)
+</details>
 
-###### Backend
+<details>
+  <summary><b>Backend</b></summary>
+  
 ![80%](https://progress-bar.dev/80?title=NodeJS) ![5%](https://progress-bar.dev/5?title=PHP) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=TypeScript)  ![30%](https://progress-bar.dev/30?title=CoffeeScript)
+</details>
 
-###### Autres
+<details>
+  <summary><b>Autres</b></summary>
+  
 ![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=Csharp)  ![10%](https://progress-bar.dev/10?title=Lua)
---
+  </details>
+</details>
 
-##### Logiciel
+<details>
+  <summary><b>Logiciel</b></summary>
 
 ![30%](https://progress-bar.dev/30?title=Linux) ![70%](https://progress-bar.dev/70?title=Windows)
+</details>
 
-##### Materiel
+<details>
+  <summary><b>Materiel</b></summary>
 
 ![90%](https://progress-bar.dev/90?title=Hardware)
+</details>
+
+</details>
 
 <details>
   <summary><b>Statistiques</b></summary>
