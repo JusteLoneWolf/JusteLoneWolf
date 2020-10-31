@@ -17,13 +17,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
   - Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi même.
   - Logia un bot discord de log sous eris-sharder en cooperation avec [warix8](https://github.com/warix8).
   - Aknya un serveur moddé minecraft cooperation avec [warix8](https://github.com/warix8)
-
-#### Statistique
-
-
-[![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
-
+  
 <details>
   <summary><b>Mes compétences</b></summary>
   <details>
@@ -64,6 +58,9 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 <details>
   <summary><b>Statistiques</b></summary>
   
+  [![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
