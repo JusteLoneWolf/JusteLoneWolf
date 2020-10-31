@@ -22,7 +22,7 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 #### Mes compétences
 
@@ -31,13 +31,10 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 ![40%](https://progress-bar.dev/40?title=JavaScript) ![20%](https://progress-bar.dev/20?title=HTML) ![20%](https://progress-bar.dev/20?title=CSS)
 
 ###### Backend
-![80%](https://progress-bar.dev/80?title=NodeJS) ![5%](https://progress-bar.dev/5?title=PHP) 
-
-
-
+![80%](https://progress-bar.dev/80?title=NodeJS) ![5%](https://progress-bar.dev/5?title=PHP) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=TypeScript)  ![30%](https://progress-bar.dev/30?title=CoffeeScript)
 
 ###### Autres
-![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=Csharp) ![30%](https://progress-bar.dev/30?title=TypeScript) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=CoffeeScript) ![10%](https://progress-bar.dev/10?title=Lua)
+![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=Csharp)  ![10%](https://progress-bar.dev/10?title=Lua)
 --
 
 ##### Logiciel
@@ -48,7 +45,9 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
 
 ![90%](https://progress-bar.dev/90?title=Hardware)
 
-
+<details>
+  <summary><b>Statistiques</b></summary>
+  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -130,15 +129,24 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+
 ![Chart not found](https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/a854baf3-b811-4627-ac99-e35f0a84f3df.png) 
 
+</details>
 
-#### Mes outils
+<details>
+  <summary><b>Mes outils</b></summary>
+  
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
+[![Rider](https://img.shields.io/badge/Rider-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)    
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+</details>
+
+
 
 #### Contact
 Mon discord: [BCFB] zechaos#2310
