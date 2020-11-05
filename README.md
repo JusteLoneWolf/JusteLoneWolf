@@ -25,24 +25,30 @@ Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etr
     <details>
   <summary><b>Web</b></summary>
       
-![40%](https://progress-bar.dev/40?title=JavaScript) ![20%](https://progress-bar.dev/20?title=HTML) ![20%](https://progress-bar.dev/20?title=CSS)
+![60%](https://progress-bar.dev/40?title=JavaScript) ![30%](https://progress-bar.dev/20?title=HTML) ![30%](https://progress-bar.dev/20?title=CSS)
 </details>
 
 <details>
   <summary><b>Backend</b></summary>
   
-![80%](https://progress-bar.dev/80?title=NodeJS) ![5%](https://progress-bar.dev/5?title=PHP) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=TypeScript)  ![30%](https://progress-bar.dev/30?title=CoffeeScript)
+![90%](https://progress-bar.dev/80?title=NodeJS) ![5%](https://progress-bar.dev/5?title=PHP) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=TypeScript)  ![30%](https://progress-bar.dev/30?title=CoffeeScript)
 </details>
 
 <details>
   <summary><b>Autres</b></summary>
   
-![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=Csharp)  ![10%](https://progress-bar.dev/10?title=Lua)
+![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=Csharp)  ![10%](https://progress-bar.dev/10?title=Lua) ![15%](https://progress-bar.dev/10?title=GML)
   </details>
 </details>
 
 <details>
-  <summary><b>Logiciel</b></summary>
+  <summary><b>Game Engine</b></summary>
+
+![30%](https://progress-bar.dev/30?title=Unreal Engine) ![70%](https://progress-bar.dev/70?title=GM2)
+</details>
+
+<details>
+  <summary><b>OS</b></summary>
 
 ![30%](https://progress-bar.dev/30?title=Linux) ![70%](https://progress-bar.dev/70?title=Windows)
 </details>
