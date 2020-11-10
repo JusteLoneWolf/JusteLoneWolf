@@ -1,62 +1,49 @@
-### Salut👋 
-
-Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).
-
-Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.
-
-Comme projet personnel je fait principalement des bot discord mais j'essai de m'ettendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.
-
-Je peux aussi faire des bot discord **privée** pour des serveur ils peuvent etre payant ou gratuit. [Pour plus d'information](https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md)
-
-#### Mes Projets
-  - [ZacianLog](https://github.com/zechaos031/ZacianLogs) Un bot de modération et de log sur discord (open source).
-  - Clouds Shards une solution d'hébergement libre de bot discord.
-  - [Arcane](https://arcane-center.xyz/) Une bot list et server list, [le module](https://www.npmjs.com/package/abcapi) par moi même [le code source](https://github.com/Arcane-Bot-Center/abcAPI) (n'est plus mis a jourpar moi meme).
-  - RPBot un bot rp privé mais open source.
-  - PasswordReminder un bot prive pour les mot de passe.
-  - Neko-Love une api d'image sous Nodejs & Koa crée par [Ota](https://github.com/Steven-Debande) racheter par moi même.
-  - Logia un bot discord de log sous eris-sharder en cooperation avec [warix8](https://github.com/warix8).
-  - Aknya un serveur moddé minecraft cooperation avec [warix8](https://github.com/warix8)
-  
-<details>
-  <summary><b>Mes compétences</b></summary>
+<h3 id="salut-">Salut👋</h3>
+<p>Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).</p>
+<p>Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.</p>
+<p>Comme projet personnel je fait principalement des bot discord mais j'essai de m'ettendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
+<p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveur ils peuvent etre payant ou gratuit. <a href="https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
+<h4 id="mes-projets">Mes Projets</h4>
+<ul>
+<li><a href="https://github.com/zechaos031/ZacianLogs">ZacianLog</a> Un bot de modération et de log sur discord (open source).</li>
+<li>Clouds Shards une solution d'hébergement libre de bot discord.</li>
+<li><a href="https://arcane-center.xyz/">Arcane</a> Une bot list et server list, <a href="https://www.npmjs.com/package/abcapi">le module</a> par moi même <a href="https://github.com/Arcane-Bot-Center/abcAPI">le code source</a> (n'est plus mis a jourpar moi meme).</li>
+<li>RPBot un bot rp privé mais open source.</li>
+<li><a href="https://zechaossoft.itch.io/industry-tycoons">Industry Tycoon</a> un jeu Unreal Engine production .</li>
+<li>PasswordReminder un bot prive pour les mot de passe.</li>
+<li>Neko-Love une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
+<li>Logia un bot discord de log sous eris-sharder en cooperation avec <a href="https://github.com/warix8">warix8</a>.</li>
+<li>Aknya un serveur moddé minecraft cooperation avec <a href="https://github.com/warix8">warix8</a></li>
+</ul>
+<details open="">
+  <summary><strong>Mes compétences</strong></summary>
   <details>
-  <summary><b>Language</b></summary>
+  <summary><strong>Language</strong></summary>
     <details>
-  <summary><b>Web</b></summary>
-      
-![60%](https://progress-bar.dev/60?title=JavaScript) ![30%](https://progress-bar.dev/30?title=HTML) ![30%](https://progress-bar.dev/30?title=CSS)
+  <summary><strong>Web</strong></summary>
+<img src="https://progress-bar.dev/60?title=JavaScript" alt="60%"> <img src="https://progress-bar.dev/30?title=HTML" alt="30%"> <img src="https://progress-bar.dev/30?title=CSS" alt="30%">
 </details>
-
 <details>
-  <summary><b>Backend</b></summary>
-  
-![90%](https://progress-bar.dev/90?title=NodeJS) ![5%](https://progress-bar.dev/5?title=PHP) ![30%](https://progress-bar.dev/30?title=Deno) ![30%](https://progress-bar.dev/30?title=TypeScript)  ![30%](https://progress-bar.dev/30?title=CoffeeScript)
+  <summary><strong>Backend</strong></summary>
+<img src="https://progress-bar.dev/90?title=NodeJS" alt="90%"> <img src="https://progress-bar.dev/5?title=PHP" alt="5%"> <img src="https://progress-bar.dev/30?title=Deno" alt="30%"> <img src="https://progress-bar.dev/30?title=TypeScript" alt="30%">  <img src="https://progress-bar.dev/30?title=CoffeeScript" alt="30%">
 </details>
-
 <details>
-  <summary><b>Autres</b></summary>
-  
-![20%](https://progress-bar.dev/20?title=Ruby) ![20%](https://progress-bar.dev/20?title=Python) ![60%](https://progress-bar.dev/60?title=Csharp)  ![10%](https://progress-bar.dev/10?title=Lua) ![10%](https://progress-bar.dev/10?title=GML)
+  <summary><strong>Autres</strong></summary>
+<img src="https://progress-bar.dev/20?title=Ruby" alt="20%"> <img src="https://progress-bar.dev/20?title=Python" alt="20%"> <img src="https://progress-bar.dev/60?title=Csharp" alt="60%">  <img src="https://progress-bar.dev/10?title=Lua" alt="10%"> <img src="https://progress-bar.dev/10?title=GML" alt="10%">
   </details>
 </details>
-
 <details>
-  <summary><b>Game Engine</b></summary>
-
-![30%](https://progress-bar.dev/30?title=UnrealEngine4) ![30%](https://progress-bar.dev/30?title=GM2)
+  <summary><strong>Game Engine</strong></summary>
+<img src="https://progress-bar.dev/30?title=UnrealEngine4" alt="30%"> <img src="https://progress-bar.dev/30?title=GM2" alt="30%">
 </details>
-
 <details>
-  <summary><b>OS</b></summary>
-
-![30%](https://progress-bar.dev/30?title=Linux) ![70%](https://progress-bar.dev/70?title=Windows)
+  <summary><strong>OS</strong></summary>
+<img src="https://progress-bar.dev/30?title=Linux" alt="30%"> <img src="https://progress-bar.dev/70?title=Windows" alt="70%">
 </details>
-
 <details>
-  <summary><b>Materiel</b></summary>
-
-![90%](https://progress-bar.dev/90?title=Hardware)
+  <summary><strong>Materiel</strong></summary>
+<img src="https://progress-bar.dev/90?title=Hardware" alt="90%">
+<p></p>
 </details>
 
 </details>
