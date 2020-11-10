@@ -9,7 +9,7 @@
 <li>Clouds Shards une solution d'hébergement libre de bot discord.</li>
 <li><a href="https://arcane-center.xyz/">Arcane</a> Une bot list et server list, <a href="https://www.npmjs.com/package/abcapi">le module</a> par moi même <a href="https://github.com/Arcane-Bot-Center/abcAPI">le code source</a> (n'est plus mis a jourpar moi meme).</li>
 <li>RPBot un bot rp privé mais open source.</li>
-<li><a href="https://zechaossoft.itch.io/industry-tycoons">Industry Tycoon</a> un jeu Unreal Engine production .</li>
+<li><a href="https://zechaossoft.itch.io/industry-tycoons">Industry Tycoon</a> un jeu Unreal Engine.</li>
 <li>PasswordReminder un bot prive pour les mot de passe.</li>
 <li>Neko-Love une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
 <li>Logia un bot discord de log sous eris-sharder en cooperation avec <a href="https://github.com/warix8">warix8</a>.</li>
