@@ -155,4 +155,4 @@ Ruby                     1 repo              █░░░░░░░░░░�
 #### Contact
 Mon discord: [BCFB] zechaos#2310
 
-[![Discord Banner 4](https://discordapp.com/api/guilds/666062901072887819/widget.png?style=banner4)](https://discordapp.com/invite/gTE6dyY)
+[![Discord Banner 4](https://discordapp.com/api/guilds/604953858979921921/widget.png?style=banner4)](https://discordapp.com/invite/CQarcG5)
