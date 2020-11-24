@@ -129,7 +129,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/zechaos031/zechaos031/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/zechaos031/zechaos031/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
