@@ -2,6 +2,7 @@
 <p>Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).</p>
 <p>Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.</p>
 <p>Comme projet personnel je fait principalement des bot discord mais j'essai de m'ettendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
+<p>Fondateur de Wolves Software studio de dévellopement web et jeux vidéo
 <p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveur ils peuvent etre payant ou gratuit. <a href="https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
 <h4 id="mes-projets">Mes Projets</h4>
 <ul>
