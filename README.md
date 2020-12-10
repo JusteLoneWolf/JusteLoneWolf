@@ -1,5 +1,5 @@
 <h3 id="salut-">Salut👋</h3>
-<p>Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).</p>
+<p>Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, apprenti DevOPS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).</p>
 <p>Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.</p>
 <p>Comme projet personnel je fait principalement des bot discord mais j'essai de m'ettendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
 <p>Fondateur de Wolves Software studio de dévellopement web et jeux vidéo
