@@ -14,7 +14,7 @@
 <li><a href="https://zechaossoft.itch.io/industry-tycoons">Industry Tycoon</a> un jeu Unreal Engine.</li>
 <li>PasswordReminder un bot prive pour les mot de passe.</li>
 <li>Neko-Love une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
-<li>Logia un bot discord de log sous eris-sharder en cooperation avec <a href="https://github.com/warix8">warix8</a>.</li>
+<li>Logia un bot discord  en cooperation avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
 <li>Aknya un serveur moddé minecraft cooperation avec <a href="https://github.com/warix8">warix8</a></li>
 <li>Lynhall un bot multifonction dévelloper en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a></li>
 <li>Le site web de French Amoung US une communauté de 22 000 membres</li>
