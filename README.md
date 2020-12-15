@@ -7,16 +7,13 @@
 <h4 id="mes-projets">Mes Projets</h4>
 <ul>
 <li><a href="https://github.com/zechaos031/ZacianLogs">ZacianLog</a> Un bot de modération et de log sur discord (open source).</li>
-  <li>Une structure simple en discord js <a href="https://github.com/zechaos031/Bot-Discord-Structures">open source</a> .</li>
+<li>Une structure simple en discord js <a href="https://github.com/zechaos031/Bot-Discord-Structures">open source</a> .</li>
 <li>Clouds Shards une solution d'hébergement libre de bot discord.</li>
-<li><a href="https://arcane-center.xyz/">Arcane</a> Une bot list et server list, <a href="https://www.npmjs.com/package/abcapi">le module</a> par moi même <a href="https://github.com/Arcane-Bot-Center/abcAPI">le code source</a> (n'est plus mis a jour par moi meme).</li>
-<li>RPBot un bot rp privé mais open source.</li>
 <li><a href="https://zechaossoft.itch.io/industry-tycoons">Industry Tycoon</a> un jeu Unreal Engine.</li>
-<li>PasswordReminder un bot prive pour les mot de passe.</li>
 <li>Neko-Love une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
 <li>Logia un bot discord  en cooperation avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
 <li>Aknya un serveur moddé minecraft cooperation avec <a href="https://github.com/warix8">warix8</a></li>
-<li>Lynhall un bot multifonction dévelloper en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a></li>
+<li>Lynhall un bot multifonction dévelloper en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a> et Mysql</li>
 <li>Le site web de French Amoung US une communauté de 22 000 membres</li>
 </ul>
 <details open="">
