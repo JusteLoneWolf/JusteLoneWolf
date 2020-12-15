@@ -151,7 +151,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Rider](https://img.shields.io/badge/Rider-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Mysql](https://img.shields.io/badge/Mysql-4479a1&color=blue?style=for-the-badge&logo=mysql)](https://www.mysql.com/fr/) 
+[![Mysql](https://img.shields.io/badge/Mysql-4479a1?style=for-the-badge&color=white&logo=mysql)](https://www.mysql.com/fr/) 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)    
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
