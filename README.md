@@ -1,19 +1,18 @@
 <h3 id="salut-">Salut👋</h3>
-<p>Bonjour je suis zechaos,j'ai 21ans, je suis dévellopeur backend NodeJS, apprenti DevOPS, je suis en ecole IPI a Toulouse en TSTN (Technicien supérieur en technologie numérique ) en DWWM (Devellopement Web et Web mobile).</p>
-<p>Mais je fait aussi d'autre language comme Ruby, C#, Python, Java.</p>
-<p>Comme projet personnel je fait principalement des bot discord mais j'essai de m'ettendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
+<p>Bonjour, je suis zechaos,j'ai 21ans, je suis développeur backend NodeJS, apprenti DevOPS, je suis en école IPI a Toulouse en TSTN (technicien supérieur en technologie numérique) en DWWM (Développement Web et Web mobile).</p>
+<p>Mais je fais aussi d'autre langage comme Ruby, C#, Python, Java.</p>
+<p>Comme projet personnel je fait principalement des bot discord mais j'éssai de m'étendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
 <p>Fondateur de Wolves Software studio de dévellopement web et jeux vidéo
-<p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveur ils peuvent etre payant ou gratuit. <a href="https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
+<p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveurs, ils peuvent être payant ou gratuit.<a href="https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
 <h4 id="mes-projets">Mes Projets</h4>
 <ul>
-<li><a href="https://github.com/zechaos031/ZacianLogs">ZacianLog</a> Un bot de modération et de log sur discord (open source).</li>
+<li><a href="https://github.com/zechaos031/ZacianLogs">ZacianLog</a> est un bot de modération et de log sur discord (open source).</li>
 <li>Une structure simple en discord js <a href="https://github.com/zechaos031/Bot-Discord-Structures">open source</a> .</li>
-<li>Clouds Shards une solution d'hébergement libre de bot discord.</li>
 <li><a href="https://zechaossoft.itch.io/industry-tycoons">Industry Tycoon</a> un jeu Unreal Engine.</li>
-<li>Neko-Love une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
-<li>Logia un bot discord  en cooperation avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
-<li>Aknya un serveur moddé minecraft cooperation avec <a href="https://github.com/warix8">warix8</a></li>
-<li>Lynhall un bot multifonction dévelloper en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a> et Mysql</li>
+<li>Neko-Love est une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
+<li>Logia un bot discord en coopération avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
+<li>Aknya un serveur moddé minecraft coopération avec <a href="https://github.com/warix8">warix8</a></li>
+<li>Lynhall un bot multifonction développer en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a> et Mysql</li>
 <li>Le site web de French Amoung US une communauté de 22 000 membres</li>
 </ul>
 <details open="">
