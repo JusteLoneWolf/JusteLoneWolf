@@ -13,7 +13,7 @@
 <li>Logia un bot discord en coopération avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
 <li>Aknya un serveur moddé minecraft coopération avec <a href="https://github.com/warix8">warix8</a></li>
 <li>Lynhall un bot multifonction développer en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a> et Mysql</li>
-<li>Le site web de French Amoung US une communauté de 22 000 membres</li>
+<li>Le site web de French Amoung US une communauté de 22 000 membres (Projet supprime car j'ai décidé de partir pour cause de conflit interne lié au serveur)</li>
 </ul>
 <details open="">
   <summary><strong>Mes compétences</strong></summary>
