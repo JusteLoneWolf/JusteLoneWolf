@@ -21,7 +21,7 @@
   <summary><strong>Language</strong></summary>
     <details>
   <summary><strong>Web</strong></summary>
-<img src="https://progress-bar.dev/60?title=JavaScript" alt="60%"> <img src="https://progress-bar.dev/30?title=HTML" alt="30%"> <img src="https://progress-bar.dev/30?title=CSS" alt="30%">
+<img src="https://progress-bar.dev/80?title=JavaScript" alt="80%"> <img src="https://progress-bar.dev/60?title=HTML" alt="60%"> <img src="https://progress-bar.dev/60?title=CSS" alt="60%">
 </details>
 <details>
   <summary><strong>Backend</strong></summary>
