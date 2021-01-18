@@ -55,7 +55,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
 **🐱 My Github Data** 
 
@@ -81,8 +81,8 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       139 commits    ███████░░░░░░░░░░░░░░░░░░   28.66% 
-Tuesday      89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
+Monday       140 commits    ███████░░░░░░░░░░░░░░░░░░   28.87% 
+Tuesday      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
 Wednesday    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
 Thursday     80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
 Friday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
