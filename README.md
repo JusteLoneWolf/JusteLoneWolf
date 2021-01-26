@@ -55,13 +55,13 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 41 Contributions in the Year 2021
  > 
-> 📦 127.9 kB Used in Github's Storage 
+> 📦 128.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
