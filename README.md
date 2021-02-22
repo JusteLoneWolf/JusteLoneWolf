@@ -11,7 +11,7 @@
 <li>Neko-Love est une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
 <li>Logia un bot discord en coopération avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
 <li>Lynhall un bot multifonction développer en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a> et Mysql</li>
-<li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur, et bien d'autres <a href="https://github.com/RPG-Module">github</a>, avec aussi du lore qui peu être implémenté ou pas.</li>
+<li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur, et bien d'autres, le <a href="https://github.com/RPG-Module">github</a>, avec aussi du lore qui peu être implémenté ou pas.</li>
   
 </ul>
 <details open="">
