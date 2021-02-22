@@ -131,7 +131,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-
+<a href="https://github.com/zechaos031/zechaos031"><img src="https://github.com/zechaos031/zechaos031/blob/main/images/stat.svg" align=center/></a></a>
 ![Chart not found](https://wakatime.com/share/@82d61414-6426-46d3-ba45-230b1678d094/a854baf3-b811-4627-ac99-e35f0a84f3df.png) 
 
 </details>
