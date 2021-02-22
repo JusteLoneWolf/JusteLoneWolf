@@ -18,3 +18,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_OS: "False"
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MSG: "Chart update"
