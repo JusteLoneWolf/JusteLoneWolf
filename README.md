@@ -154,4 +154,6 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 #### Contact
 Mon discord: [WS] zechaos#2310
 
+<a href="https://www.patreon.com/bePatron?u=43559512" data-patreon-widget-type="become-patron-button" align=center>Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 [![Discord Banner 4](https://discordapp.com/api/guilds/604953858979921921/widget.png?style=banner4)](https://discordapp.com/invite/CQarcG5)
