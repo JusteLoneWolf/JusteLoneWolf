@@ -12,8 +12,8 @@
 <li>Logia un bot discord en coopération avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
 <li>Lynhall un bot multifonction développer en JS avec Discord JS avec structure <a href="https://github.com/zechaos031/Bot-Discord-Structures">Bot-Discord-Structures V5.0</a> et Mysql</li>
 <li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur, et bien d'autres, le <a href="https://github.com/RPG-Module">github</a>, avec aussi du lore qui peu être implémenté ou pas.</li>
-  
 </ul>
+<a href="https://www.patreon.com/bePatron?u=43559512" data-patreon-widget-type="become-patron-button" align=center>Become a Patron!</a>
 <details open="">
   <summary><strong>Mes compétences</strong></summary>
   <details>
@@ -154,6 +154,5 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 #### Contact
 Mon discord: [WS] zechaos#2310
 
-<a href="https://www.patreon.com/bePatron?u=43559512" data-patreon-widget-type="become-patron-button" align=center>Become a Patron!</a>
 
 [![Discord Banner 4](https://discordapp.com/api/guilds/604953858979921921/widget.png?style=banner4)](https://discordapp.com/invite/CQarcG5)
