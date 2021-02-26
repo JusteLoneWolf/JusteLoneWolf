@@ -14,6 +14,7 @@
 <li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur, et bien d'autres, le <a href="https://github.com/RPG-Module">github</a>, avec aussi du lore qui peu être implémenté ou pas.</li>
 </ul>
 <a href="https://www.patreon.com/bePatron?u=43559512" data-patreon-widget-type="become-patron-button" align=center>Become a Patron!</a>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T43QB6A)
 <details open="">
   <summary><strong>Mes compétences</strong></summary>
