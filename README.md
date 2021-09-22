@@ -58,11 +58,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 295 Contributions in the Year 2021
  > 
-> 📦 103.9 kB Used in Github's Storage 
+> 📦 103.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
