@@ -62,7 +62,7 @@
 
 > 🏆 345 Contributions in the Year 2021
  > 
-> 📦 104.0 kB Used in GitHub's Storage 
+> 📦 104.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,7 +133,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zechaos031/zechaos031/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 
 
