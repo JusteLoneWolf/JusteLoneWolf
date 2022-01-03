@@ -157,7 +157,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 #### Contact
-Mon discord: [WS] zechaos#2310
+Mon discord: LoneWolf#5006
 
 
 [![Discord Banner 4](https://discordapp.com/api/guilds/604953858979921921/widget.png?style=banner4)](https://discordapp.com/invite/CQarcG5)
