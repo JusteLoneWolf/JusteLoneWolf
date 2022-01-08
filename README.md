@@ -55,7 +55,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C200%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -74,9 +74,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    167 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
-🌆 Daytime    303 commits    ████████░░░░░░░░░░░░░░░░░   31.86% 
-🌃 Evening    322 commits    ████████░░░░░░░░░░░░░░░░░   33.86% 
+🌞 Morning    171 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+🌆 Daytime    302 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
+🌃 Evening    319 commits    ████████░░░░░░░░░░░░░░░░░   33.54% 
 🌙 Night      159 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.72%
 
 ```
