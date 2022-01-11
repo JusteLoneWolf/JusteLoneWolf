@@ -55,7 +55,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C234%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C239%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -63,7 +63,7 @@
 
 > 🏆 4 Contributions in the Year 2022
  > 
-> 📦 117.3 kB Used in GitHub's Storage 
+> 📦 117.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,12 +84,12 @@
 
 ```text
 Monday       194 commits    █████░░░░░░░░░░░░░░░░░░░░   20.4% 
-Tuesday      114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+Tuesday      116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
 Wednesday    124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
 Thursday     144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
 Friday       157 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
 Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Sunday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.94%
+Sunday       102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.73%
 
 ```
 
