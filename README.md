@@ -55,6 +55,8 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C366%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -98,18 +100,13 @@ Sunday       85 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               30 mins             ███████████████████░░░░░░   76.41% 
-JavaScript               8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.23% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WolfBot                  38 mins             ████████████████████████░   97.96% 
-dev                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
+No Activity Tracked This Week
 
 ```
 
@@ -129,7 +126,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zechaos031/zechaos031/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2022 00:18:49 UTC
+ Last Updated on 08/02/2022 05:10:56 UTC
 <!--END_SECTION:waka-->
 
 
