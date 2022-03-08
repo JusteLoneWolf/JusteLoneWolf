@@ -55,13 +55,15 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C389%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 6 Contributions in the Year 2022
  > 
-> 📦 117.8 kB Used in GitHub's Storage 
+> 📦 117.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,17 +100,16 @@ Sunday       60 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               8 hrs 53 mins       █████████████████████░░░░   84.86% 
-HTML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+JavaScript               3 hrs 37 mins       ████████████████████████░   97.6% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-WebStorm                 10 hrs 28 mins      █████████████████████████   100.0%
+WebStorm                 3 hrs 42 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-WoeulfyReborn            10 hrs 28 mins      █████████████████████████   100.0%
+WoeulfyReborn            3 hrs 42 mins       █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +129,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zechaos031/zechaos031/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/03/2022 00:23:10 UTC
+ Last Updated on 08/03/2022 20:12:02 UTC
 <!--END_SECTION:waka-->
 
 
