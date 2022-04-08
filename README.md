@@ -100,14 +100,13 @@ Sunday       54 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 19 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 19 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LoneBot                  1 hr 18 mins        ████████████████████████░   98.88% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+No Activity Tracked This Week
 
 ```
 
@@ -127,7 +126,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zechaos031/zechaos031/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/04/2022 20:12:08 UTC
+ Last Updated on 08/04/2022 05:10:25 UTC
 <!--END_SECTION:waka-->
 
 
