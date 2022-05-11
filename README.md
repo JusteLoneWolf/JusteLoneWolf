@@ -55,9 +55,9 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C391%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
@@ -126,7 +126,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zechaos031/zechaos031/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 00:26:57 UTC
+ Last Updated on 11/05/2022 05:17:27 UTC
 <!--END_SECTION:waka-->
 
 
