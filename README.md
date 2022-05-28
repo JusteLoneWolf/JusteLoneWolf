@@ -57,7 +57,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 6 Contributions in the Year 2022
+> 🏆 8 Contributions in the Year 2022
  > 
 > 📦 118.0 kB Used in GitHub's Storage 
  > 
@@ -79,12 +79,12 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       129 commits    █████░░░░░░░░░░░░░░░░░░░░   20.28% 
+Monday       127 commits    █████░░░░░░░░░░░░░░░░░░░░   19.97% 
 Tuesday      69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
 Wednesday    103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
 Thursday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94% 
 Friday       123 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
-Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Saturday     69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
 Sunday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.86%
 
 ```
@@ -119,10 +119,10 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/zechaos031/zechaos031/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/LoneWolfSteam/LoneWolfSteam/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/05/2022 05:11:41 UTC
+ Last Updated on 28/05/2022 10:10:08 UTC
 <!--END_SECTION:waka-->
 
 
