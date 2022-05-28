@@ -6,10 +6,6 @@
 <p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveurs, ils peuvent être payant ou gratuit.<a href="https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
 <h4 id="mes-projets">Mes Projets</h4>
 <ul>
-<li>Une structure simple en discord js <a href="https://github.com/zechaos031/Bot-Discord-Structures">open source</a> .</li>
-<li><a href="https://github.com/Wolves-SoftWare/SpaceColony">Space Colony</a> un jeu en terminal, co-créée avec un autre développeur,  .</li>
-<li>Neko-Love est une api d'image sous Nodejs & Koa crée par <a href="https://github.com/Steven-Debande">Ota</a> racheter par moi même.</li>
-<li>Logia un bot discord en coopération avec <a href="https://github.com/warix8">warix8</a> et <a href="https://github.com/StevenDBND">Ota</a>.</li>
 <li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur, et bien d'autres, le <a href="https://github.com/RPG-Module">github</a>, avec aussi du lore qui peu être implémenté ou pas.</li>
 </ul>
 <a href="https://www.patreon.com/bePatron?u=43559512" data-patreon-widget-type="become-patron-button" align=center>Become a Patron!</a>
