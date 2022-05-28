@@ -1,5 +1,5 @@
 <h3 id="salut-">Salut👋</h3>
-<p>Bonjour, je suis zechaos,j'ai 22ans, je suis développeur backend NodeJS, apprenti DevOPS, je suis en freelance a Toulouse.</p>
+<p>Bonjour, je suis LoneWolf,j'ai 22ans, je suis développeur backend NodeJS, apprenti DevOPS, je suis en freelance a Toulouse.</p>
 <p>Mais je fais aussi d'autre langage comme Ruby, C#, Python, Java.</p>
 <p>Comme projet personnel je fait principalement des bot discord mais j'éssai de m'étendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
 <p>Fondateur de Wolves Software studio de dévellopement web et jeux vidéo
