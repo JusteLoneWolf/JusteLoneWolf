@@ -51,7 +51,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C391%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -59,7 +59,7 @@
 
 > 🏆 8 Contributions in the Year 2022
  > 
-> 📦 118.1 kB Used in GitHub's Storage 
+> 📦 118.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,13 +96,16 @@ Sunday       35 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 mins              ███████████░░░░░░░░░░░░░░   45.5% 
+GitIgnore file           3 mins              █████████░░░░░░░░░░░░░░░░   38.25% 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.25%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              █████████████░░░░░░░░░░░░   53.11% 
+WoeulfyReforger          4 mins              ███████████░░░░░░░░░░░░░░   46.89%
 
 ```
 
@@ -122,7 +125,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LoneWolfSteam/LoneWolfSteam/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 00:29:04 UTC
+ Last Updated on 16/06/2022 05:11:42 UTC
 <!--END_SECTION:waka-->
 
 
