@@ -51,7 +51,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C392%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -96,16 +96,17 @@ Sunday       35 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 mins              ███████████░░░░░░░░░░░░░░   45.5% 
-GitIgnore file           3 mins              █████████░░░░░░░░░░░░░░░░   38.25% 
-JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.25%
+JavaScript               1 hr 14 mins        ███████████████████████░░   91.57% 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
 
 🔥 Editors: 
-WebStorm                 8 mins              █████████████████████████   100.0%
+WebStorm                 1 hr 20 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████░░░░░░░░░░░░   53.11% 
-WoeulfyReforger          4 mins              ███████████░░░░░░░░░░░░░░   46.89%
+WoeulfyReborn            45 mins             ██████████████░░░░░░░░░░░   56.22% 
+WoeulfyReforger          30 mins             █████████░░░░░░░░░░░░░░░░   38.15% 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
 
 ```
 
@@ -125,7 +126,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LoneWolfSteam/LoneWolfSteam/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 00:26:05 UTC
+ Last Updated on 21/06/2022 05:12:45 UTC
 <!--END_SECTION:waka-->
 
 
