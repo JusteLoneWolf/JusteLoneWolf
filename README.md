@@ -51,7 +51,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C411%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -130,7 +130,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LoneWolfSteam/LoneWolfSteam/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 00:31:55 UTC
+ Last Updated on 22/07/2022 05:17:13 UTC
 <!--END_SECTION:waka-->
 
 
