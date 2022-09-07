@@ -57,7 +57,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 15 Contributions in the Year 2022
+> 🏆 110 Contributions in the Year 2022
  > 
 > 📦 118.5 kB Used in GitHub's Storage 
  > 
@@ -124,10 +124,10 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/LoneWolfSteam/LoneWolfSteam/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 20:11:52 UTC
+ Last Updated on 07/09/2022 00:32:09 UTC
 <!--END_SECTION:waka-->
 
 
