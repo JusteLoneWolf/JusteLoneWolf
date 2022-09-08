@@ -96,18 +96,13 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     3 mins              ████████████████░░░░░░░░░   65.56% 
-GitIgnore file           1 min               ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-SVG                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-unknowproject            4 mins              ████████████████████░░░░░   81.5% 
-Unknown Project          1 min               ████░░░░░░░░░░░░░░░░░░░░░   18.5%
+No Activity Tracked This Week
 
 ```
 
@@ -127,7 +122,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 00:32:50 UTC
+ Last Updated on 08/09/2022 05:35:49 UTC
 <!--END_SECTION:waka-->
 
 
