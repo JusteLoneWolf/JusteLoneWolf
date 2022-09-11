@@ -51,7 +51,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,7 +59,7 @@
 
 > 🏆 110 Contributions in the Year 2022
  > 
-> 📦 118.6 kB Used in GitHub's Storage 
+> 📦 118.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,13 +96,14 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     7 mins              █████████████████░░░░░░░░   67.93% 
+JavaScript               3 mins              ████████░░░░░░░░░░░░░░░░░   32.07%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+unknowproject            11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +123,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/09/2022 00:29:31 UTC
+ Last Updated on 11/09/2022 05:24:13 UTC
 <!--END_SECTION:waka-->
 
 
