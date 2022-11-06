@@ -51,7 +51,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,16 +96,16 @@ Sunday       33 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               2 hrs 5 mins        ██████████████████████░░░   91.47% 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+JavaScript               2 hrs 13 mins       ███████████████████████░░   91.94% 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
-WebStorm                 2 hrs 16 mins       █████████████████████████   100.0%
+WebStorm                 2 hrs 24 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-RPG-JS                   2 hrs 16 mins       █████████████████████████   100.0%
+RPG-JS                   2 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +125,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 00:30:26 UTC
+ Last Updated on 06/11/2022 05:10:00 UTC
 <!--END_SECTION:waka-->
 
 
