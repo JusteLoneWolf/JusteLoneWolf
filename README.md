@@ -53,7 +53,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -123,7 +123,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2023 15:10:22 UTC
+ Last Updated on 25/01/2023 20:09:19 UTC
 <!--END_SECTION:waka-->
 
 
