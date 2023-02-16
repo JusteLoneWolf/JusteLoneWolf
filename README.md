@@ -3,7 +3,7 @@
 <p>Mais je fais aussi d'autre langage comme Ruby, C#, Python, Java.</p>
 <p>Comme projet personnel je fait principalement des bot discord mais j'éssai de m'étendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
 <p>Fondateur de Wolves Software studio de dévellopement web et jeux vidéo
-<p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveurs, ils peuvent être payant ou gratuit.<a href="https://github.com/zechaos031/zechaos031/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
+<p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveurs, ils peuvent être payant ou gratuit.<a href="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
 <h4 id="mes-projets">Mes Projets</h4>
 <ul>
 <li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur, et bien d'autres, le <a href="https://github.com/RPG-Module">github</a>, avec aussi du lore qui peu être implémenté ou pas.</li>
@@ -47,8 +47,8 @@
 <details>
   <summary><b>Statistiques</b></summary>
   
-  [![Github Statistics](https://github-readme-stats.vercel.app/api?username=zechaos031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Statistics](https://github-profile-trophy.vercel.app/?username=zechaos031&theme=dracula)
+  [![Github Statistics](https://github-readme-stats.vercel.app/api?username=JusteLoneWolf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Statistics](https://github-profile-trophy.vercel.app/?username=JusteLoneWolf&theme=dracula)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2022%20mins-blue)
@@ -127,7 +127,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<a href="https://github.com/zechaos031/zechaos031"><img src="https://github.com/zechaos031/zechaos031/blob/master/images/stat.svg" align=center/></a></a>
+<a href="https://github.com/JusteLoneWolf/JusteLoneWolf"><img src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/master/images/stat.svg" align=center/></a></a>
 
 </details>
 
