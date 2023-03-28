@@ -1,9 +1,5 @@
 <h3 id="salut-">Salut👋</h3>
-<p>Bonjour, je suis LoneWolf,j'ai 23ans, je suis développeur backend NodeJS, apprenti DevOPS, je suis en freelance a Toulouse.</p>
-<p>Mais je fais aussi d'autre langage comme Ruby, C#, Python, Java.</p>
-<p>Comme projet personnel je fait principalement des bot discord mais j'éssai de m'étendre vers le Web dynamique avec Angular & php & JavaScript, mais aussi vers le modding est le ingame Scripting avec Arma 3 et Space Engineer.</p>
-<p>Fondateur de Wolves Software studio de dévellopement web et jeux vidéo
-<p>Je peux aussi faire des bot discord <strong>privée</strong> pour des serveurs, ils peuvent être payant ou gratuit.<a href="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/master/info/CustomBot.md">Pour plus d'information</a></p>
+<p>Je suis LoneWolf,j'ai 24ans, je suis Furry DevOPS NodeJs, C#.</p>
 <h4 id="mes-projets">Mes Projets</h4>
 <ul>
 <li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur, et bien d'autres, le <a href="https://github.com/RPG-Module">github</a>, avec aussi du lore qui peu être implémenté ou pas.</li>
