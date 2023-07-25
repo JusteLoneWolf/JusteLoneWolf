@@ -90,14 +90,13 @@ Sunday                   507 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               51 mins             ████████████████████████░   95.10 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Bot                      53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2023 01:50:50 UTC
+ Last Updated on 25/07/2023 05:19:24 UTC
 <!--END_SECTION:waka-->
 
 
