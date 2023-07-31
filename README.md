@@ -47,7 +47,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=JusteLoneWolf&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C443%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C449%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -90,14 +90,19 @@ Sunday                   511 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               2 hrs 14 mins       █████████████████████████   99.30 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+JavaScript               5 hrs 27 mins       ████████████████████░░░░░   78.94 % 
+EJS                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Bot                      2 hrs 15 mins       █████████████████████████   100.00 % 
+authSystem               2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.16 % 
+Bot                      2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
+MinimalCovid             1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +122,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2023 00:25:34 UTC
+ Last Updated on 31/07/2023 05:07:42 UTC
 <!--END_SECTION:waka-->
 
 
