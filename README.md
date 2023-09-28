@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C450%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2023 20:08:37 UTC
+ Last Updated on 28/09/2023 00:22:52 UTC
 <!--END_SECTION:waka-->
 
 
