@@ -47,7 +47,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=JusteLoneWolf&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C460%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C475%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -90,16 +90,16 @@ Sunday                   511 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               9 hrs 40 mins       ████████████████████████░   97.92 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JavaScript               24 hrs 19 mins      ████████████████████████░   96.35 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 52 mins       █████████████████████████   100.00 % 
+WebStorm                 25 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DiscordBot               9 hrs 44 mins       █████████████████████████   98.58 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+DiscordBot               24 hrs 58 mins      █████████████████████████   98.97 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2023 00:23:07 UTC
+ Last Updated on 11/10/2023 05:08:00 UTC
 <!--END_SECTION:waka-->
 
 
