@@ -90,17 +90,13 @@ Sunday                   511 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████░░░░░░░░░░░░░░░░   34.79 % 
-Ezhil                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Text                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LightEditProject         0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +116,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2023 00:23:46 UTC
+ Last Updated on 19/10/2023 05:08:10 UTC
 <!--END_SECTION:waka-->
 
 
