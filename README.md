@@ -47,6 +47,8 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=JusteLoneWolf&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C475%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -61,6 +63,42 @@
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1419 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+🌆 Daytime                1915 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌃 Evening                1654 commits        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌙 Night                  1568 commits        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   978 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Wednesday                1105 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Friday                   825 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Saturday                 627 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Sunday                   511 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -78,7 +116,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2023 10:08:21 UTC
+ Last Updated on 22/11/2023 15:08:20 UTC
 <!--END_SECTION:waka-->
 
 
