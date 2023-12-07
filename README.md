@@ -47,6 +47,8 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=JusteLoneWolf&theme=dracula)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C476%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -88,13 +90,19 @@ Sunday                   511 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     40 mins             ████████████████░░░░░░░░░   64.31 % 
+JavaScript               20 mins             ████████░░░░░░░░░░░░░░░░░   33.45 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LightEditProject         40 mins             ████████████████░░░░░░░░░   64.38 % 
+TwitchBot                21 mins             █████████░░░░░░░░░░░░░░░░   35.03 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +122,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2023 00:24:34 UTC
+ Last Updated on 07/12/2023 05:07:57 UTC
 <!--END_SECTION:waka-->
 
 
