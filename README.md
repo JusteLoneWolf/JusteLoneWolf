@@ -47,13 +47,13 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=JusteLoneWolf&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C522%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C522%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 120.3 kB Used in GitHub's Storage 
+> 📦 120.2 kB Used in GitHub's Storage 
  > 
 > 🏆 28 Contributions in the Year 2023
  > 
@@ -122,7 +122,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 00:26:42 UTC
+ Last Updated on 17/12/2023 05:08:06 UTC
 <!--END_SECTION:waka-->
 
 
