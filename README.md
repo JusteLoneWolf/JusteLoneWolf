@@ -47,7 +47,7 @@
 [![Github Statistics](https://github-profile-trophy.vercel.app/?username=JusteLoneWolf&theme=dracula)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C524%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C525%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,17 +90,19 @@ Sunday                   511 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 7 mins         ███████████████████░░░░░░   77.42 % 
-JSON                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JavaScript               1 hr 28 mins        █████████████░░░░░░░░░░░░   52.21 % 
+HTML                     1 hr                █████████░░░░░░░░░░░░░░░░   35.83 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 27 mins        █████████████████████████   100.00 % 
+WebStorm                 2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TwitchBotAPI             1 hr 27 mins        █████████████████████████   99.76 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TwitchBotAPI             1 hr 29 mins        █████████████░░░░░░░░░░░░   52.93 % 
+LoneAudio                1 hr 18 mins        ████████████░░░░░░░░░░░░░   46.28 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +122,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2023 00:26:13 UTC
+ Last Updated on 24/12/2023 05:07:36 UTC
 <!--END_SECTION:waka-->
 
 
