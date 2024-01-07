@@ -90,18 +90,13 @@ Sunday                   511 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       █████████████████████████   98.90 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 3 hrs 51 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TwitchBotAPI             3 hrs 41 mins       ████████████████████████░   95.78 % 
-LoneAudio                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +116,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2024 00:27:54 UTC
+ Last Updated on 07/01/2024 05:07:59 UTC
 <!--END_SECTION:waka-->
 
 
