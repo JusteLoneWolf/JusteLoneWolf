@@ -18,6 +18,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_OS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "False"
+          SYMBOL_VERSION: "3"
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
