@@ -20,11 +20,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C529%20hrs%2031%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 120.4 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2024
+> 🏆 8 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,6 +34,41 @@
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1419 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+🌆 Daytime                1920 commits        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌃 Evening                1654 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌙 Night                  1570 commits        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   980 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Wednesday                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Friday                   828 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Saturday                 627 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Sunday                   511 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -43,12 +80,14 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
-<img
-  src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/assets/images/stat.svg"
-  alt="Stat"
-/>
 
- Last Updated on 26/01/2024 10:08:09 UTC
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
+
+
+ Last Updated on 26/01/2024 12:50:03 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
