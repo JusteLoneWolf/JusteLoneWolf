@@ -18,7 +18,7 @@
 
 <!--START_SECTION:waka-->
 <img
-  src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/main/images/stat.svg"
+  src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/master/images/stat.svg"
   alt="LoneWolf WakaTime Activity"
 />
 
