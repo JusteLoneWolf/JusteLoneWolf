@@ -17,11 +17,6 @@
 
 
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/master/images/stat.svg"
-  alt="LoneWolf WakaTime Activity"
-/>
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C529%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
@@ -30,7 +25,7 @@
 
 > 📦 120.4 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2024
+> 🏆 10 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +46,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   78.43 % 
-C#                       5 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.80 % 
-GDScript                 1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.96 % 
-Ruby                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.96 % 
-Python                   1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.96 % 
+JavaScript               40 repos            ████████████████████░░░░░   78.43 % 
+C#                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 26/01/2024 13:00:01 UTC
+ Last Updated on 26/01/2024 13:07:09 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
