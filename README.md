@@ -32,41 +32,6 @@
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1419 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-🌆 Daytime                1917 commits        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-🌃 Evening                1654 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-🌙 Night                  1570 commits        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   980 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Wednesday                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Friday                   825 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 627 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Sunday                   511 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -78,20 +43,14 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/JusteLoneWolf/JusteLoneWolf/master/assets/bar_graph.png)
-
+<img
+  src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/assets/images/stat.svg"
+  alt="Stat"
+/>
 
  Last Updated on 26/01/2024 10:08:09 UTC
 <!--END_SECTION:waka-->
 
-
-<a href="https://github.com/JusteLoneWolf/JusteLoneWolf"><img src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/master/images/stat.svg" align=center/></a></a>
-  <summary><b>Mes outils</b></summary>
-  
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Rider](https://img.shields.io/badge/Rider-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
 [![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
