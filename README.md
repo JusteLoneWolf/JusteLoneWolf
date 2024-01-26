@@ -1,6 +1,5 @@
 <h3 id="salut-">Salut👋</h3>
-<p>Je suis LoneWolf,j'ai 24ans, je suis Furry DevOPS NodeJs, C#. je code des truc un peu debiles parfois, mais je travaille souvent pour des petit projet (bot twitch/discord, plugins MC, serveur minecraft), actuellement plainement moderateur chez un streamer twitch <a href="https://github.com/JusteLoneWolf/RPG](https://twitch.tv/wolfy_player)">Wolfy_player</a></li>, ou je m'occupe d'un serveur minecraft pour sa communauté, et de ses stream en corrigeant des probleme ou en le conseillé sur des choses !</p>
-
+<p>Je suis LoneWolf,j'ai 24 ans, je suis Furry DevOPS NodeJs, C#. je code des trucs un peu débiles parfois, mais je travaille souvent pour de petits projets (bot twitch/discord, plugins et serveur minecraft), modérateur chez un streamer twitch <a href="https://github.com/JusteLoneWolf/RPG](https://twitch.tv/wolfy_player)">Wolfy_player</a></li>, où je m'occupe d'un serveur minecraft pour sa communauté et, de ses streams en corrigeant des problèmes ou en le conseillant sur des choses !</p>
 <details>
   <summary><h4 id="mes-projets">Mes Projets</h4></summary>
   <h3 id="third-level-header" align="center" style="margin: 1.3em 0px 1em; padding: 0px; font-weight: bold;font-size: 1.3em;">HUH!?</h3>
