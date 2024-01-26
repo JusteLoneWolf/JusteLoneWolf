@@ -17,6 +17,11 @@
 
 
 <!--START_SECTION:waka-->
+<img
+  src="https://github.com/JusteLoneWolf/JusteLoneWolf/blob/main/images/stat.svg"
+  alt="LoneWolf WakaTime Activity"
+/>
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C529%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
@@ -69,5 +74,5 @@ Python                   1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 #### Contact
-Mon discord: justelonewolf
+Mon discord: justelonewolf</br>
 Mon twiter: https://twitter.com/JusteLoneWolf
