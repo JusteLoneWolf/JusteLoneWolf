@@ -26,7 +26,7 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "False"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "1"
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
