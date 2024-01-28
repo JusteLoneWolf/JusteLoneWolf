@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C534%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
 
@@ -37,10 +37,12 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 31 mins        █████████████████████████   100.00 % 
+JavaScript               4 hrs 42 mins       █████████████████████████   100.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-dev                      1 hr 31 mins        █████████████████████████   100.00 % 
+dev                      4 hrs 37 mins       █████████████████████████   98.22 % 
+RPG                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,7 +58,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2024 00:23:55 UTC
+ Last Updated on 28/01/2024 05:06:31 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
