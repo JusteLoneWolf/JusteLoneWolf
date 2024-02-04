@@ -37,12 +37,10 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 11 mins       █████████████████████████   100.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dev                      3 hrs 6 mins        ████████████████████████░   97.38 % 
-RPG                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,7 +56,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2024 00:24:11 UTC
+ Last Updated on 04/02/2024 05:06:10 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
