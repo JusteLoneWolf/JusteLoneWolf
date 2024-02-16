@@ -37,7 +37,7 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 50 mins       ███████████████░░░░░░░░░░   58.59 % 
+Markdown                 7 hrs 50 mins       ███████████████░░░░░░░░░░   58.58 % 
 JSON                     5 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.08 % 
 Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
@@ -64,7 +64,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2024 00:21:33 UTC
+ Last Updated on 16/02/2024 05:06:31 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
