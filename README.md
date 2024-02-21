@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,7 +25,7 @@
 
 > 📦 121.5 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2024
+> 🏆 26 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,17 +53,17 @@ JusteLoneWolf-MoreScraps 1 min               ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos            ███████████████████░░░░░░   76.92 % 
-C#                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript               40 repos            ███████████████████░░░░░░   75.47 % 
+C#                       7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 21/02/2024 10:06:11 UTC
+ Last Updated on 21/02/2024 15:06:27 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
