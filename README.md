@@ -17,13 +17,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C556%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 121.5 kB Used in GitHub's Storage 
+> 📦 121.6 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2024
  > 
@@ -37,14 +37,17 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ███████████████████████░░   92.36 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 3 mins              █████████████░░░░░░░░░░░░   53.00 % 
+JavaScript               1 min               ████████░░░░░░░░░░░░░░░░░   32.14 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-LethalBonneCompany       1 hr 9 mins         █████████████████████████   99.88 % 
-JusteLoneWolf-MoreScraps 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+LethalBonneCompany       3 mins              ████████████████░░░░░░░░░   62.59 % 
+TwitchBot                2 mins              █████████░░░░░░░░░░░░░░░░   36.01 % 
+JusteLoneWolf-MoreScraps 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,7 +63,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/02/2024 00:21:55 UTC
+ Last Updated on 29/02/2024 05:07:04 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
