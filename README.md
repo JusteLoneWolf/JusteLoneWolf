@@ -37,15 +37,10 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 min               █████████████████░░░░░░░░   68.69 % 
-JSON                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-TwitchBot                2 mins              ███████████████████░░░░░░   76.96 % 
-LethalBonneCompany       0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +56,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2024 00:17:59 UTC
+ Last Updated on 07/03/2024 05:06:10 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
