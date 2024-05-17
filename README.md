@@ -37,10 +37,10 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 6 mins         █████████████████████████   100.00 % 
+JavaScript               24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wowheadScrapper          1 hr 6 mins         █████████████████████████   100.00 % 
+wowheadScrapper          24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,7 +56,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 00:23:19 UTC
+ Last Updated on 17/05/2024 05:07:18 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
