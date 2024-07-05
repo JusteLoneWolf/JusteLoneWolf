@@ -23,9 +23,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 122.1 kB Used in GitHub's Storage 
+> 📦 122.0 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2024
+> 🏆 31 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,6 +33,19 @@
  > 
 > 🔑 30 Private Repositories 
  > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   982 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Wednesday                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Friday                   834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 635 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Sunday                   513 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -63,7 +76,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2024 20:06:56 UTC
+ Last Updated on 05/07/2024 21:42:17 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
