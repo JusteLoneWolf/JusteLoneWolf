@@ -25,6 +25,8 @@
 
 > 📦 122.1 kB Used in GitHub's Storage 
  > 
+> 🏆 31 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 73 Public Repositories 
@@ -48,12 +50,11 @@ Sunday                   513 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               23 hrs 53 mins      █████████████████████████   99.84 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript               17 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ZacianLogs               23 hrs 51 mins      █████████████████████████   99.68 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+ZacianLogs               16 hrs 59 mins      █████████████████████████   99.59 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +70,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2024 00:30:14 UTC
+ Last Updated on 14/07/2024 05:09:34 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
