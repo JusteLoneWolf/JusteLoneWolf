@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C641%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,10 +50,14 @@ Sunday                   513 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+JavaScript               2 hrs 36 mins       ████████████████████████░   97.42 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-ZacianLogs               0 secs              █████████████████████████   100.00 % 
+ZacianLogs               2 hrs 40 mins       █████████████████████████   99.55 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +73,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2024 00:26:26 UTC
+ Last Updated on 19/07/2024 05:09:05 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
