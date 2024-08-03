@@ -50,13 +50,10 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               29 mins             █████████████░░░░░░░░░░░░   51.91 % 
-Markdown                 23 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-YoutubeVideoExtractor    56 mins             █████████████████████████   99.68 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +69,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2024 00:26:37 UTC
+ Last Updated on 03/08/2024 05:08:48 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
