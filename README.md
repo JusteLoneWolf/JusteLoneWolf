@@ -17,13 +17,15 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C672%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 35 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,6 +33,29 @@
  > 
 > 🔑 30 Private Repositories 
  > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   982 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Wednesday                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Friday                   837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 631 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Sunday                   508 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -44,7 +69,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 00:33:00 UTC
+ Last Updated on 10/11/2024 05:08:16 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
