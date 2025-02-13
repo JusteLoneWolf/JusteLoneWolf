@@ -59,17 +59,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            ████████████████████░░░░░   78.85 % 
-C#                       8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript               41 repos            ████████████████████░░░░░   80.39 % 
+C#                       7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 12/02/2025 20:09:43 UTC
+ Last Updated on 13/02/2025 00:31:09 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
