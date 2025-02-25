@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C682%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C680%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -66,17 +66,17 @@ YoutubeChapterExtractor-m0 secs              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            ████████████████████░░░░░   80.39 % 
-C#                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript               41 repos            ████████████████████░░░░░   82.00 % 
+C#                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 24/02/2025 20:09:59 UTC
+ Last Updated on 25/02/2025 00:34:16 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
