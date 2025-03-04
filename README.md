@@ -50,13 +50,10 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 14 mins        ████████████████████████░   96.25 % 
-textmate                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KubeJSPipoumon           1 hr 14 mins        ████████████████████████░   96.25 % 
-cobblemon_module         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +69,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/03/2025 00:32:21 UTC
+ Last Updated on 04/03/2025 05:09:28 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
