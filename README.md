@@ -17,15 +17,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C685%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 123.2 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,7 +69,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 20:10:24 UTC
+ Last Updated on 22/05/2025 00:35:19 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
