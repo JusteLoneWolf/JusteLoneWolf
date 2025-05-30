@@ -9,6 +9,7 @@
 </details>
 <ul>
 <li>Un module RPG entièrement personnalisable et complet qui permet de faire des RPG sur le <a href="https://github.com/JusteLoneWolf/RPG">code source ici !</a></li>
+<li>Un bot discord multifonction en refonte complete !
 </ul>
 <p align="center">
   <a href="https://www.patreon.com/bePatron?u=43559512" data-patreon-widget-type="become-patron-button" align=center><img src="https://github.com/JusteLoneWolf/JusteLoneWolf/assets/36123003/88d6d538-ced5-4b36-aa08-23df5633a757" width=135></a>
