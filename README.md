@@ -51,10 +51,10 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 23 mins       █████████████████████████   100.00 % 
+JavaScript               4 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ZacianLogs               5 hrs 23 mins       █████████████████████████   100.00 % 
+ZacianLogs               4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +70,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 00:37:01 UTC
+ Last Updated on 20/06/2025 05:10:49 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
