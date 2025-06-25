@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C750%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C751%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,29 +34,6 @@
  > 
 > 🔑 30 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   982 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Wednesday                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Friday                   837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Saturday                 632 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   508 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ZacianLogs               3 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -70,7 +47,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2025 00:36:54 UTC
+ Last Updated on 25/06/2025 05:11:23 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
