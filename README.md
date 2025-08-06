@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C751%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C751%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,10 +51,12 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               33 mins             █████████████████████████   99.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ZacianLogs               32 mins             █████████████████████████   99.04 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +72,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2025 00:39:37 UTC
+ Last Updated on 06/08/2025 05:18:13 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
