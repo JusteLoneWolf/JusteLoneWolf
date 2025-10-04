@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C758%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C762%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,13 +51,13 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 58 mins       ███████████████████░░░░░░   75.40 % 
-JSON                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               8 hrs 28 mins       █████████████████████░░░░   83.92 % 
+JSON                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-ZacianLogs               6 hrs 35 mins       █████████████████████████   100.00 % 
+ZacianLogs               10 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2025 00:31:51 UTC
+ Last Updated on 04/10/2025 05:08:57 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
