@@ -18,13 +18,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 140.3 kB Used in GitHub's Storage 
+> 📦 140.2 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -34,32 +32,6 @@
  > 
 > 🔑 30 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   982 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Wednesday                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Friday                   837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Saturday                 632 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   508 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               3 hrs 23 mins       ████████████████████████░   97.26 % 
-textmate                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-🐱‍💻 Projects: 
-DiscordBot               3 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -73,7 +45,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 05:11:19 UTC
+ Last Updated on 03/01/2026 10:09:50 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
