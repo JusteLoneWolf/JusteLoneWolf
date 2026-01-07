@@ -18,9 +18,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C810%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C817%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -51,14 +51,16 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 30 mins       █████████████████████████   98.57 % 
-textmate                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               8 hrs 30 mins       █████████████████░░░░░░░░   67.51 % 
+Lua                      3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+textmate                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-DiscordBot               8 hrs 37 mins       █████████████████████████   99.86 % 
-ZacianLogs               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+DiscordBot               8 hrs 37 mins       █████████████████░░░░░░░░   68.40 % 
+FiveM                    3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+ZacianLogs               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +76,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 00:38:53 UTC
+ Last Updated on 07/01/2026 05:14:40 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
