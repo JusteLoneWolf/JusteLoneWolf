@@ -18,8 +18,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C956%20hrs%2046%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -75,7 +73,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 20:35:37 UTC
+ Last Updated on 08/06/2026 01:19:47 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
