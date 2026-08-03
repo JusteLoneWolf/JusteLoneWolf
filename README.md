@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C949%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C951%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2059%20mins-blue?style=flat)
 
@@ -53,14 +53,15 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 26 mins        ████████████████████████░   96.35 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C#                       3 hrs 10 mins       ███████████████████████░░   91.77 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-MoreScraps               1 hr 30 mins        █████████████████████████   99.96 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+MoreScraps               3 hrs 27 mins       █████████████████████████   99.98 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,7 +83,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 00:53:28 UTC
+ Last Updated on 03/08/2026 06:09:56 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
