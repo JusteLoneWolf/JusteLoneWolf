@@ -18,7 +18,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C951%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C953%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2059%20mins-blue?style=flat)
 
@@ -53,15 +53,16 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 10 mins       ███████████████████████░░   91.77 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C#                       3 hrs 48 mins       █████████████████░░░░░░░░   67.88 % 
+Markdown                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-MoreScraps               3 hrs 27 mins       █████████████████████████   99.98 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+MoreScraps               5 hrs 32 mins       █████████████████████████   98.88 % 
+loneMenu                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +84,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 00:51:27 UTC
+ Last Updated on 04/08/2026 06:04:04 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
