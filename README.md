@@ -18,10 +18,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C953%20hrs%2039%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2059%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -36,41 +32,6 @@
  > 
 > 🔑 30 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   982 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Tuesday                  1300 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Wednesday                1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 1210 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Friday                   837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Saturday                 632 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   508 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       3 hrs 48 mins       █████████████████░░░░░░░░   67.88 % 
-Markdown                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-🐱‍💻 Projects: 
-MoreScraps               5 hrs 32 mins       █████████████████████████   98.88 % 
-loneMenu                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -84,7 +45,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 12:09:39 UTC
+ Last Updated on 07/08/2026 00:56:21 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
