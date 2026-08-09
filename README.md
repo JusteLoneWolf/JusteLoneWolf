@@ -53,16 +53,15 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       3 hrs 48 mins       █████████████████░░░░░░░░   67.88 % 
-Markdown                 1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+C#                       2 hrs 21 mins       ██████████████░░░░░░░░░░░   57.44 % 
+Markdown                 1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   40.68 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-MoreScraps               5 hrs 32 mins       █████████████████████████   98.88 % 
-loneMenu                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+MoreScraps               4 hrs 2 mins        █████████████████████████   98.48 % 
+loneMenu                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -84,7 +83,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 02:17:44 UTC
+ Last Updated on 09/08/2026 05:52:39 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
