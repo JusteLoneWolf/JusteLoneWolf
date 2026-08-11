@@ -53,15 +53,10 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 28 mins        █████████████████░░░░░░░░   68.78 % 
-C#                       37 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Csproj                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MoreScraps               2 hrs 4 mins        ████████████████████████░   97.08 % 
-loneMenu                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,7 +78,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 02:13:57 UTC
+ Last Updated on 11/08/2026 05:59:54 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
