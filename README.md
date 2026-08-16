@@ -18,9 +18,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C959%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C970%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -53,40 +53,41 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 59 mins       █████████████████████░░░░   83.45 % 
-JSON                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-EJS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript               13 hrs 44 mins      █████████████████████░░░░   82.73 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+EJS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🐱‍💻 Projects: 
-ZacianLogs               4 hrs 7 mins        █████████████████░░░░░░░░   69.01 % 
-General                  1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-views                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-discord-defense-test-bot 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-GuildInteractions        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+ZacianLogs               12 hrs 43 mins      ███████████████████░░░░░░   76.56 % 
+General                  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+lavalink                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+helpers                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+views                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (32.28%)
+⏱ AI Coding Time: 10 hrs 39 mins (64.12%)
 
-✍️ 492 lines written by AI, 10 lines written by hand (98.01% AI-written)
+✍️ 11,319 lines written by AI, 172 lines written by hand (98.5% AI-written)
 
-🔤 190 Input Tokens, 190 Output Tokens
+🔤 36,381 Input Tokens, 36,381 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.26 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 15 AI Prompts
+🧠 14 AI Sessions, 72 AI Prompts
 
-Grok                     958 lines           █████████████████████████   100.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     13,250 lines        ████████████████████████░   96.70 % 
+Cursor                   452 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.01% of written lines came from AI
-📄 Detailed Prompter — average 509 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.14% of changed lines were hand-edited
+🤖 AI-Driven — 98.5% of written lines came from AI
+📚 Verbose Prompter — average 2,761 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +103,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 01:49:25 UTC
+ Last Updated on 16/08/2026 05:36:07 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
