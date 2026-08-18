@@ -18,9 +18,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C971%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C971%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -53,42 +53,42 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               14 hrs 43 mins      █████████████████████░░░░   82.54 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-EJS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+JavaScript               14 hrs 54 mins      █████████████████████░░░░   82.12 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+EJS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🐱‍💻 Projects: 
-ZacianLogs               13 hrs 37 mins      ███████████████████░░░░░░   76.43 % 
-General                  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-lavalink                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-helpers                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-config                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+ZacianLogs               13 hrs 38 mins      ███████████████████░░░░░░   75.16 % 
+General                  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+lavalink                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+helpers                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+OverlayTwitch            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 52 mins (66.59%)
+⏱ AI Coding Time: 12 hrs 8 mins (66.95%)
 
-✍️ 14,236 lines written by AI, 172 lines written by hand (98.81% AI-written)
+✍️ 15,778 lines written by AI, 181 lines written by hand (98.87% AI-written)
 
 🔤 88,898 Input Tokens, 62,980 Output Tokens
 
 💵 $1.91 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 83 AI Prompts
+🧠 19 AI Sessions, 84 AI Prompts
 
-Grok                     17,025 lines        ████████████████████████░   94.02 % 
-Opus                     631 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Cursor                   452 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Grok                     17,025 lines        ██████████████████████░░░   86.04 % 
+Cursor                   2,131 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Opus                     631 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.81% of written lines came from AI
-📚 Verbose Prompter — average 2,421 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.04% of changed lines were hand-edited
+🤖 AI-Driven — 98.87% of written lines came from AI
+📚 Verbose Prompter — average 2,395 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +104,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 01:42:48 UTC
+ Last Updated on 18/08/2026 05:37:31 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
