@@ -53,42 +53,42 @@ Sunday                   508 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               16 hrs 30 mins      ███████████████████░░░░░░   74.25 % 
-JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-CSS                      1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-EJS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript               12 hrs 2 mins       ██████████████████░░░░░░░   71.16 % 
+CSS                      1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+EJS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-ZacianLogs               13 hrs 29 mins      ███████████████░░░░░░░░░░   60.63 % 
-OverlayTwitch            4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-General                  1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-lavalink                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-helpers                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+ZacianLogs               9 hrs 36 mins       ██████████████░░░░░░░░░░░   56.78 % 
+OverlayTwitch            4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+General                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+lavalink                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+helpers                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 57 mins (71.71%)
+⏱ AI Coding Time: 14 hrs 31 mins (85.91%)
 
-✍️ 23,728 lines written by AI, 179 lines written by hand (99.25% AI-written)
+✍️ 23,582 lines written by AI, 174 lines written by hand (99.27% AI-written)
 
 🔤 423,499 Input Tokens, 260,092 Output Tokens
 
 💵 $20.29 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 121 AI Prompts
+🧠 31 AI Sessions, 118 AI Prompts
 
-Grok                     16,213 lines        ██████████████░░░░░░░░░░░   57.23 % 
-Opus                     9,973 lines         █████████░░░░░░░░░░░░░░░░   35.20 % 
-Cursor                   2,143 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Grok                     16,067 lines        ██████████████░░░░░░░░░░░   57.01 % 
+Opus                     9,973 lines         █████████░░░░░░░░░░░░░░░░   35.39 % 
+Cursor                   2,143 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.25% of written lines came from AI
-📚 Verbose Prompter — average 3,005 characters per prompt
+🤖 AI-Driven — 99.27% of written lines came from AI
+📚 Verbose Prompter — average 3,076 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🚀 High AI Trust — 1.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +104,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 01:41:41 UTC
+ Last Updated on 22/08/2026 05:35:53 UTC
 <!--END_SECTION:waka-->
 
 [![Webstorm](https://img.shields.io/badge/Webstrom-007acc?style=for-the-badge&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/)
